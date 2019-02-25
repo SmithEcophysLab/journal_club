@@ -15,7 +15,7 @@ fine-root mass, and nitrogen uptake related empirically? Implications for
 models and theory. Global Change Biology.
 [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14541)
 
-### Date: February 25, 2019
+### Date: February 29, 2019
 ### Location: BIOL 206A
 Catford, J. A., Smith, A. L., Wragg, P. D., Clark, A. T., Kosmala, M., 
 Cavender‐Bares, J., Reich, P. B. and Tilman, D. (2019), 
