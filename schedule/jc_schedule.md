@@ -14,3 +14,11 @@ Dybzinski R, Kelvakis A, McCabe J, et al. 2018. How are nitrogen availability,
 fine-root mass, and nitrogen uptake related empirically? Implications for 
 models and theory. Global Change Biology.
 [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14541)
+
+### Date: February 25, 2019
+### Location: BIOL 206A
+Catford, J. A., Smith, A. L., Wragg, P. D., Clark, A. T., Kosmala, M., 
+Cavender‐Bares, J., Reich, P. B. and Tilman, D. (2019), 
+Traits linked with species invasiveness and community invasibility vary with time, stage 
+and indicator of invasion in a long‐term grassland experiment. Ecology Letters. 
+[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13220)
